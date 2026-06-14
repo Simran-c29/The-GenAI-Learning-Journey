@@ -1,3 +1,3 @@
 # Daily Logs
 
-Track your daily learning progress and observations here.
+Tracks daily learning progress and observations here.
